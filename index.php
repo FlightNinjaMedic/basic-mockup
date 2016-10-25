@@ -9,10 +9,11 @@
 		<div class="sfooter-content">
 			<header>
 				<div class="container">
-					<h1>Dylan's Profe$$ional Web Page</h1>
+					<h1 id="page-title">Dylan's Profe$$ional Web Page</h1>
 				</div>
 			</header>
 			<main>
+				<div class="box-model">
 				<div class="container">
 					<div class="instructions">
 						<h2>Instructions</h2>

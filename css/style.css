@@ -1,14 +1,12 @@
-/********************************************
-* Custom CSS Styles for Basic Mockup Exercise
-*
-* Some CSS rules have been added for you below.
-* Edit and add CSS rules as you see fit! :D
-********************************************/
+/* tag selector */
 
-html,
 body {
 	margin: 0;
+	color: black;
 }
+
+
+
 
 .container {
 	margin: 0 auto;
