@@ -1,20 +1,13 @@
 /* tag selector */
 
-body {
-	margin: 0;
+#page-title {
 	color: black;
+	background-color: lightskyblue;
 }
-
-
-
-
-.container {
-	margin: 0 auto;
-	width: 1170px;
-}
-
-.clear {
-	clear: both;
+.box-model {
+	padding: 2rem;
+	margin: 2rem;
+	border: 5px solid grey
 }
 
 /***
